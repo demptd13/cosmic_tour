@@ -769,7 +769,7 @@ body {
 }
 
 .map {
-  background-image: url("../../images/map-bg.jpg");
+  background-image: url("../../../images/map-bg.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: top center;
