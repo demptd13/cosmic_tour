@@ -79,21 +79,21 @@ table {
   font-style: normal;
   font-weight: bold;
   font-display: swap;
-  src: url("../fonts/SF-Pro-Display-Bold.woff2") format("woff2"), url("../fonts/SF-Pro-Display-Bold.woff") format("woff");
+  src: url("../../fonts/SF-Pro-Display-Bold.woff2") format("woff2"), url("../../fonts/SF-Pro-Display-Bold.woff") format("woff");
 }
 @font-face {
   font-family: "SF Pro";
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url("../fonts/SF-Pro-Display-Regular.woff2") format("woff2"), url("../fonts/SF-Pro-Display-Regular.woff") format("woff");
+  src: url("../../fonts/SF-Pro-Display-Regular.woff2") format("woff2"), url("../../fonts/SF-Pro-Display-Regular.woff") format("woff");
 }
 @font-face {
   font-family: "Space Age";
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url("../fonts/spaceagecyrillic-regular.woff") format("woff"), url("../fonts/spaceagecyrillic-regular.woff2") format("woff2");
+  src: url("../../fonts/spaceagecyrillic-regular.woff") format("woff"), url("../../fonts/spaceagecyrillic-regular.woff2") format("woff2");
 }
 .container {
   max-width: 1180px;
