@@ -769,7 +769,7 @@ body {
 }
 
 .map {
-  background-image: url("../../../images/map-bg.jpg");
+  background-image: url("../../images/map-bg.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: top center;
@@ -845,7 +845,7 @@ body {
 .book {
   background-repeat: no-repeat;
   background-size: cover;
-  background-image: url("/images/book-bg.jpg");
+  background-image: url("../../images/book-bg.jpg");
   background-position: top center;
   min-height: 100vh;
 }
@@ -918,7 +918,7 @@ body {
 .info {
   background-repeat: no-repeat;
   background-size: cover;
-  background-image: url("/images/special-offer-bg.jpg");
+  background-image: url("../../images/special-offer-bg.jpg");
   background-position: top center;
   padding-bottom: 80px;
 }
