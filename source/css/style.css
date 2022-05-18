@@ -1481,7 +1481,7 @@ body {
 .footer {
   background-repeat: no-repeat;
   background-size: cover;
-  background-image: url("/images/footer-bg.png");
+  background-image: url("../../images/footer-bg.png");
   background-position: top center;
   background-repeat: no-repeat;
   padding: 100px 0 150px 0;
